@@ -1,0 +1,12 @@
+{
+  "item.dratestmod.draxite": "Draxite",
+  "item.dratestmod.rawdraxite": "Raw Draxite",
+
+  "block.dratestmod.rawdraxiteblock": "Block of Raw Draxite",
+  "block.dratestmod.draxiteblock": "Block of Draxite",
+  "block.dratestmod.draxiteore": "Draxite Ore",
+  "block.dratestmod.draxitedeepslateore": "Draxite Deepslate Ore",
+
+  "creativetab.dratestmod.draxite_items": "Draxite Items",
+  "creativetab.dratestmod.draxite_blocks": "Draxite Blocks"
+}
